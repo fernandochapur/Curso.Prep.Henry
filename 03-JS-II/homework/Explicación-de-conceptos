@@ -1,0 +1,4 @@
+Bucles for :
+Un bucle for sirve para automatizar trabajos repetitivos, declarando una variable luego una expresión condicional y por ultimo y mas importante (para que no se nos genere un bucle infinito) debemos incrementar la variable.
+Operadores Lógicos :
+exiten tres tipos de operadores lógicos, && Y(AND), || Ó(OR), ! NO(NOT). && evalua las dos expresiones y si ambas son verdaderas realizara el código. || evalua las dos expresiones y si una o ambas son verdaderas realizara el código. ! este ultimo operador invierte su resultado, es decir si el resultado es true, no realizara el codigo.
