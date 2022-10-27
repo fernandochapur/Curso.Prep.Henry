@@ -1,0 +1,10 @@
+Objetos: Todo en JavaScript son objetos, un objeto es un contenedor de propiedades. Las propiedades pueden tener valores, como por ejemplo: Podriamos tener una propiedad llamada "nombre" que tenga el valor "Fernando".
+
+Propiedades: Es utilizado para asociar a un nombre ( o una clave ).
+
+Metodos: Una propiedad cuando contenga un valor que sea una funcion, pasa a ser un Metodo, Entonces se podria decir que un metodo es una funcion del objeto.
+
+Bucle for ... in: Devuelve todas las propiedades, hace lo mismo que el bucle for normal, el unico cambio es la sintaxis.
+
+Notacion de puntos: Es la forma mas sensilla de llamar una propiedad y que nos muestre su valor, ejemplo: creamos un objeto llamado obj, le asignamos una propiedad con el nombre "edad", le damos un valor "19", bien ahora la forma mas facil de acceder a esa propiedad es unasdo la notacion de puntos, de esta manera: obj.edad, nos devolvera "19".
+Notacion de corchetes: Es la forma mas larga de llamar una propiedad, pero esta nos cirve para llamar a variables, la notacion de puntos es literal, es decir, va a buscar la propiedad "edad", pero si tenemos una variable i = "edad" e intentamos buscar de esta forma el interprete no nos va a entender porque no existe la propiedad i, en cambio en la notacion de corchetes obj[i] va a buscar una variable i, va a ver su contenido que en este caso es "edad" y lo va a asociar con la propiedad "edad".
