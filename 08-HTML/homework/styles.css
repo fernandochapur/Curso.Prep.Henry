@@ -10,15 +10,15 @@ img
 
 #thirdDiv 
 {
-	height: 600px;
-	width: 500px;
-	background: beige;
+	height: 500px;
+	width: 600px;
+	background-color: beige;
 	padding: 50px;
+	border: 15px solid bisque;
 }
 
 #spanId 
 {
 	font-size: 18px;
 	margin: 50px;
-	border: 50px, bisque;
 }
